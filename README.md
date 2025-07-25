@@ -10,8 +10,8 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using
 
 **Source:** [Kaggle Dataset – Loan Approval Prediction](https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction)
 
-➡Download the file `Training_Dataset.csv`  
-➡Place it in the **same directory** as your `.py` file
+Download the file `Training_Dataset.csv`  
+Place it in the **same directory** as your `.py` file
 
 ##  How to Run
 
@@ -25,9 +25,9 @@ pip install -r requirements.txt
 streamlit run rag_chatbot.py
 ```
 
-➡ Open browser at `http://localhost:8501`
+Open browser at `http://localhost:8501`
 
-## 💬 Sample Questions
+##  Sample Questions
 - How many loans were approved?
 - What is the average loan amount?
 - Are married applicants more likely to get a loan?
