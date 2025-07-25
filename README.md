@@ -1,4 +1,4 @@
-# 🤖 RAG Q&A Chatbot – Loan Approval Dataset (All-in-One File)
+#  RAG Q&A Chatbot – Loan Approval Dataset (All-in-One File)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using a **single Python script** that can:
 - Embed and search the Loan Approval dataset
@@ -6,26 +6,26 @@ This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using
 - Generate answers using Hugging Face language models
 - Provide an interactive chatbot UI using Streamlit
 
-## 📦 Dataset
+##  Dataset
 
 **Source:** [Kaggle Dataset – Loan Approval Prediction](https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction)
 
-➡️ Download the file `Training_Dataset.csv`  
-➡️ Place it in the **same directory** as your `.py` file
+➡Download the file `Training_Dataset.csv`  
+➡Place it in the **same directory** as your `.py` file
 
-## 🚀 How to Run
+##  How to Run
 
-### 1️⃣ Install Requirements
+### 1 Install Requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Run the Chatbot (Streamlit UI)
+### 2️ Run the Chatbot (Streamlit UI)
 ```bash
 streamlit run rag_chatbot.py
 ```
 
-➡️ Open browser at `http://localhost:8501`
+➡ Open browser at `http://localhost:8501`
 
 ## 💬 Sample Questions
 - How many loans were approved?
